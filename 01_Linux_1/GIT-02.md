@@ -19,3 +19,4 @@ geen
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
 [screenshot Ghostwriter](techgrounds-kaman/00_includes/GIT-02_screenshot.PNG)
 [[/00_includes/GIT-02_screenshot.PNG|ALT TEXT]]
+[[00_includes/GIT-02_screenshot.PNG|ALT TEXT]]
