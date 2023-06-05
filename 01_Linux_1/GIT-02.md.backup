@@ -17,5 +17,9 @@ geen
 ### Resultaat
 
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+<<<<<<< HEAD
+=======
 [screenshot Ghostwriter](techgrounds-kaman/00_includes/GIT-02_screenshot.PNG)
 [[/00_includes/GIT-02_screenshot.PNG|ALT TEXT]]
+[[00_includes/GIT-02_screenshot.PNG|ALT TEXT]]
+>>>>>>> 108f46e7ff6eadb93ab76b7e0846fb93800e9ca4
