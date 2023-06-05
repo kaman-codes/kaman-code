@@ -17,4 +17,4 @@ geen
 ### Resultaat
 
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
-[screenshot Ghostwriter](00_includes/screenshot-s3.png)
+[screenshot Ghostwriter](techgrounds-kaman/00_includes/GIT-02_screenshot.PNG)
