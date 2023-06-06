@@ -18,5 +18,7 @@ https://varunsaklani.wordpress.com/2022/04/13/how-to-ssh-from-windows-to-linux-u
 Kreeg al snel de melding "permission denied". Door te googlen heb ik kunnen vinden hoe de key file en de poort nummer toegevoegd kan worden aan de prompt in Openssh.
 
 ### Resultaat
-Het is gelukt om de verbinding te maken in Powershell met Openssh. Zie output ***whoami***
-![LNX-01 screenshot](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-01 screenshot.PNG)
+Het is gelukt om de verbinding te maken in Powershell met Openssh. Zie output 
+```whoami```
+
+![LNX-01 screenshot](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-01_screenshot.PNG)
