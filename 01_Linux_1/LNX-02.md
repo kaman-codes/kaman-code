@@ -1,20 +1,24 @@
-# [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# Files and Directories
+Een introductie tot de linux filestructure. In de opdrachten probeer je in de CLI door de directories te navigeren en met bestanden te werken.
 
 ## Key-terms
-- **Linux filesystem**
+- **Linux filestructure**
 - **Linux commands**
-- 
+    - cd
+    - ls
+    - mkdir
+    - vi of nano
 
 ## Opdracht
 ### Gebruikte bronnen
-Ik ken de linux fundamentals redelijk goed en hoefde ik geen gebruik te maken van andere bronnen.
+Ik heb ervaring met het werken in Linux en hoefde ik geen gebruik te maken van andere bronnen.
 
 ### Ervaren problemen
 geen
 
 ### Resultaat
 Path naar mijn home directory.
+
 
 ```pwd```
 

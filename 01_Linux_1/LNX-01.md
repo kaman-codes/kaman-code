@@ -6,8 +6,6 @@ De opdracht is een verbinding opzetten met een reeds aangemaakte container op ee
 - **Openssh**
 - **CLI** - command line interface
 
-
-
 ## Opdracht
 ### Gebruikte bronnen
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui
@@ -15,10 +13,10 @@ https://varunsaklani.wordpress.com/2022/04/13/how-to-ssh-from-windows-to-linux-u
 
 
 ### Ervaren problemen
-Kreeg al snel de melding "permission denied". Door te googlen heb ik kunnen vinden hoe de key file en de poort nummer toegevoegd kan worden aan de prompt in Openssh.
+Ik kreeg al snel de melding "permission denied". Door te googlen heb ik kunnen vinden hoe de key file en de poort nummer toegevoegd kan worden aan de prompt in Openssh.
 
 ### Resultaat
-Het is gelukt om de verbinding te maken in Powershell met Openssh. Zie output 
+Het is gelukt om de verbinding te maken in Powershell met Openssh. Zie output:
 ```whoami```
 
 ![LNX-01 screenshot](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-01_screenshot.PNG)
