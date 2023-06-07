@@ -49,6 +49,7 @@ Configuration files in Linux bevinden zich in /etc.
 De user 'superkaman' staat in elk van de onderstaande configuratie bestanden
 
 /etc/passwd - hierin staan alle users van dit systeem in.
+
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-04_screen03.PNG)
 
 /etc/group - hierin staan de group en de users die daarbij horen.
