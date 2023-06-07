@@ -13,3 +13,4 @@
 
 ### Resultaat
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+![Screenshot](/00_includes/screenshot-s3.png)
