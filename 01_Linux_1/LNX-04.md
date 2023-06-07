@@ -7,7 +7,7 @@ In Linux zijn users en groeps belangrijke onderdelen voor de beveiliging en het 
 - commands
     - sudo
     - useradd of adduser
-    - usermod
+    - usermod -aG - *The -aG option tells the system to append the user to the specified group.*
     - passwd
 - configuration files
     - /etc/passwd
@@ -32,7 +32,6 @@ Met onderstaande instructie kon ik deze user toevoegen aan de sudo group.
 
 ```sudo usermod -aG sudo superkaman```
 
-*The -aG option tells the system to append the user to the specified group.*
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-04_screenshot01.PNG)
 
