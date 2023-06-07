@@ -52,7 +52,7 @@ De user 'superkaman' staat in elk van de onderstaande configuratie bestanden
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-04_screen03.PNG)
 
-/etc/group - hierin staan de group en de users die daarbij horen.
+/etc/group - hierin staan de groups en de users die daarbij horen.
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-04_screen04.PNG)
 
