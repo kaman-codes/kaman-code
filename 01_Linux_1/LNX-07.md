@@ -31,7 +31,8 @@ Probleem 4: De code wilde niet goed runnen. Ik kwam erachter dat er spaties tuss
 
 ### Resultaat
 
-####exercise 1####
+**exercise 1**
+
 `PATH=$PATH:~/scripts/` toegevoegd aan `~/.profile`. Daarna in- en uitgelogd om het in werking te stellen.
 
 Een script die een tekstregel toevoegd elke keer als deze wordt uitgevoerd.
@@ -39,17 +40,17 @@ Een script die een tekstregel toevoegd elke keer als deze wordt uitgevoerd.
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-07_screen07.PNG)
 
 Dit is de output van de script die apache2 installeerd (unattended), start, enabled en de status weergeeft.
-![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-07_screen02.PNG)
+![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-07_screen03.PNG)
 
 
-####exercise 2####
+**exercise 2**
 
 Deze script genereerd een random nummer en schrijft deze naar een text file.
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-07_screen04.PNG)
 
 
-####exercise 3####
+**exercise 3**
 Dit is een uitbreiding op de script in exercise 2.
 |command|description|
 |-------|-----------|
@@ -67,6 +68,6 @@ then
 else      
 fi
 ```
-Output:
+script:
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-07_screen05.PNG)
