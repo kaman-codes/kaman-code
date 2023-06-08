@@ -36,6 +36,7 @@ Probleem 4: De code wilde niet goed runnen. Ik kwam erachter dat er spaties tuss
 `PATH=$PATH:~/scripts/` toegevoegd aan `~/.profile`. Daarna in- en uitgelogd om het in werking te stellen.
 
 Een script die een tekstregel toevoegd elke keer als deze wordt uitgevoerd.
+Een Bashscript begint altijd met `!#/bin/bash`
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-07_screen06.PNG)
 
