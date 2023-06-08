@@ -17,6 +17,7 @@ Door gebruik te maken van verschillende commands en operators kun je in de CLI  
 ## Opdracht
 ### Gebruikte bronnen
 https://linuxize.com/post/linux-cat-command/?utm_content=cmp-true
+
 https://tldp.org/LDP/intro-linux/html/sect_05_01.html
 
 ### Ervaren problemen
