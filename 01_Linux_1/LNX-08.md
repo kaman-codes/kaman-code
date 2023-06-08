@@ -31,6 +31,8 @@ Deze [webpagina](https://www.cherryservers.com/blog/how-to-use-cron-to-automate-
 - crontab -l - geeft je crontab weer.
 - crontab -r - verwijder je crontab.
 
+De datum werd niet geschreven door chron. bleek dat ik de path naar de script niet goed heb opgegeven in de chronjob.
+
 ### Resultaat
 
 Een script die de datum en tijd op het moment schrijf naar een file.
