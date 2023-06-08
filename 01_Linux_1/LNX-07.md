@@ -1,9 +1,9 @@
 # Bash scripting
 
-[Geef een korte beschrijving van het onderwerp]
+Bash scripting stelt gebruikers in staat om complexe, repetitieve taken te automatiseren en aangepaste commando's te maken. Een (Bash)shell-script is een tekstbestand dat een reeks opdrachten bevat die de bash-shell kan uitvoeren. Ze kunnen variabelen, functies en controlestructuren zoals lussen en conditionele statements bevatten, wat ze zeer flexibel en krachtig maakt.
 
 ## Key-terms
-- Bash
+- Bash/Bash-shell
 - PATH
 - Variables
 - if-else
