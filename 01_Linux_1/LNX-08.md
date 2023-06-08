@@ -41,7 +41,7 @@ Een script die de datum en tijd op het moment schrijf naar een file.
 date >> ~/dateswritten
 ```
 
-Om deze script aan contab toe te voegen zodat hij elke minuut zal worden uitgevoerd moet er een instructie in de crontab geplaatst worden.
+Om deze script aan crontab toe te voegen zodat hij elke minuut zal worden uitgevoerd moet er een instructie in de crontab geplaatst worden.
 
  `crontab -e`
 
@@ -57,7 +57,7 @@ script:
 df -h >> /var/log/available_diskspace.log
 ```
 
-`sudo crontab -e` om in de crontab van de root user te schrijven.
+`sudo crontab -e` gebruikt om in de crontab van de root user te schrijven.
 
 ![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/LNX-08_screen02.PNG)
 
