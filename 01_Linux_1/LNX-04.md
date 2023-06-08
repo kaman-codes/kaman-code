@@ -1,4 +1,4 @@
-f# Users and groups
+# Users and groups
 
 In Linux zijn users en groeps belangrijke onderdelen voor de beveiliging en het beheer van systeembronnen. Users kunnen toegekend worden aan groups. In groups kunnen users georganiseerd worden met vergelijkbare rechten. Users in de 'sudo'-group zijn in staat commands met beheersrechten uit te voeren.
 
