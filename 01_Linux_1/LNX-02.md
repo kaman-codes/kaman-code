@@ -2,8 +2,8 @@
 Een introductie tot de linux filestructure. In de opdrachten probeer je in de CLI door de directories te navigeren en met bestanden te werken.
 
 ## Key-terms
-- **Linux filestructure**
-- **Linux commands**
+- Linux filestructure - De Linux-bestandsstructuur is een hiërarchische boomstructuur die begint bij de root directory ("/"), met daarbinnen verschillende subdirectories zoals /bin voor systeemprogramma's, /home voor gebruikersbestanden, en /etc voor systeemconfiguratiebestanden.
+- Linux commands
     - cd
     - ls
     - mkdir
@@ -11,7 +11,7 @@ Een introductie tot de linux filestructure. In de opdrachten probeer je in de CL
 
 ## Opdracht
 ### Gebruikte bronnen
-Ik heb ervaring met het werken in Linux en hoefde ik geen gebruik te maken van andere bronnen.
+Ik ben gewend in Linux te werken en hoefde geen gebruik te maken van andere bronnen.
 
 ### Ervaren problemen
 geen
