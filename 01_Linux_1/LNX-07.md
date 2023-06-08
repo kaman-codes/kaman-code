@@ -23,7 +23,7 @@ Bash scripting stelt gebruikers in staat om complexe, repetitieve taken te autom
 
 Probleem 1: De httpd package staat niet in de ubuntu repository. Al snel kreeg ik door dat je apache2 moet installeren.
 
-Probleem 2: Bij het toevoegen van de PATH moest uitgezocht worden in welke file je het moet zetten. `~/.profile` is de juist file.
+Probleem 2: Bij het toevoegen van de PATH moest uitgezocht worden in welke file je het moet zetten. `~/.profile` is de juiste file.
 
 Probleem 3: Het "greater then" is niet `>` maar `-gt`. Dat duurde even om uit te zoeken.
 
