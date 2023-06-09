@@ -25,4 +25,4 @@ Het was mijn eerste kennismaking met Github en heb daarom veel tijd nodig gehad 
 Ik heb een account aangemaakt op github. Daarna een repository aangemaakt en gedeeld met mijn teamgenoten en LC. 
 Vervolgens heb ik de desktop-app geinstalleerd en een clone gemaakt.
 
-![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/GIT-01_screen01.PNG)
+![Image](https://github.com/kaman-codes/techgrounds-kaman/blob/main/00_includes/GIT-01_screen01.PNG) 
